@@ -1,0 +1,52 @@
+h2 {
+    margin: 0 auto;
+    width: 500px;
+}
+
+.container {
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    background-color: rgb(243, 243, 243);
+    border: 2px solid lightgray;
+    border-radius: 10px 10px 10px 10px;
+    line-height: 0px;
+    width: 500px;
+}
+
+
+
+.textbox {
+    width: 60%;
+}
+
+.textarea {
+    width: 50%;
+}
+
+.name,.mailaddress,.age,.comments {
+    margin-bottom: 35px;
+}
+
+.select {
+    width: 28%;
+}
+
+.comments {
+    margin-top: 35px;
+}
+
+.button {
+    color: white;
+    background-color: lightgray;
+    border: 0px;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0px 1px 0px black;
+}
+
+h2 {
+    border-left: 5px solid red;
+    background-color: lightgrey;
+    padding-left: 10px;
+} 
